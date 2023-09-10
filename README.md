@@ -1,13 +1,13 @@
 # Simple Profile App with Flutter
 
-<img src="https://github.com/saadiyaJ/simple_profile/blob/main/screenshots/profile_app_gif.png" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/simple_profile/blob/main/screenshots/profile_app_gif.gif" alt="App Demo" width="200" height="350">
 
 ## Introduction
 This is a beginner-level Flutter project that demonstrates the use of basic flutter widgets and assets management and styling. 
 
 ## Screenshots
 
-<img src="https://github.com/saadiyaJ/simple_profile/blob/main/screenshots/profile_app_gif.png" alt="App Demo" width="200" height="350">
+<img src="https://github.com/saadiyaJ/simple_profile/blob/main/screenshots/profile_app_gif.gif" alt="App Demo" width="200" height="350">
 
 ## Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
