@@ -1,16 +1,65 @@
-# projects
+# Simple Profile App with Flutter
 
-A new Flutter project.
+<img src="https://github.com/saadiyaJ/simple_profile/blob/main/screenshots/profile_app_gif.png" alt="App Demo" width="200" height="350">
+
+## Introduction
+This is a beginner-level Flutter project that demonstrates the use of basic flutter widgets and assets management and styling. 
+
+## Screenshots
+
+<img src="https://github.com/saadiyaJ/simple_profile/blob/main/screenshots/profile_app_gif.png" alt="App Demo" width="200" height="350">
 
 ## Getting Started
+Follow these steps to get a copy of the project up and running on your local machine.
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+1. Flutter
+2. Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A step-by-step guide on how to clone and set up your project locally:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies.
+4. Run the app.
+
+
+### Sample Code:
+
+
+                  Row(
+                    
+                   children: [
+                     Container(
+                       width: 200,
+                       height: 200,
+                       child: ClipRRect(
+                       borderRadius: BorderRadius.circular(30.0),
+                       child: Image.asset('assets/merida.gif'),
+                     )
+                   ),
+                  const Column(
+                      children:[
+                        Text(
+                          "Her Majesty",
+                          style: TextStyle(
+                            fontFamily: 'Almendra',
+                            color: Colors.white,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 30,
+
+                          ),
+                          softWrap: true,
+                          maxLines: 100,
+
+                        ),
+
+## Acknowledgments
+1. The Flutter Framework.
+2. Fellow [alfaresof](https://github.com/alfaresof) tutorials on the fundamentals of The Flutter Framework.
+
+## Contact
+Reach out to me at saadiyajehar@gmail.com

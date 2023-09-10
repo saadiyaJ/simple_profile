@@ -39,7 +39,6 @@ class Profile extends StatelessWidget {
 
 
               Row(
-                //mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Container(
                       width: 200,
