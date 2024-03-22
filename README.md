@@ -3,11 +3,7 @@
 <img src="https://github.com/saadiyaJ/simple_profile/blob/main/screenshots/profile_app_gif.gif" alt="App Demo" width="200" height="350">
 
 ## Introduction
-This is a beginner-level Flutter project that demonstrates the use of basic flutter widgets and assets management and styling. 
-This is a beginner-level Flutter App project. Through this app I learned how to:
-
-assets management.
-styling.
+This is a beginner-level Flutter project that demonstrates learning the use of basic flutter widgets and assets management and styling. 
 
 
 ## Screenshots
