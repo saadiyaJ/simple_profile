@@ -4,6 +4,11 @@
 
 ## Introduction
 This is a beginner-level Flutter project that demonstrates the use of basic flutter widgets and assets management and styling. 
+This is a beginner-level Flutter App project. Through this app I learned how to:
+
+assets management.
+styling.
+
 
 ## Screenshots
 
